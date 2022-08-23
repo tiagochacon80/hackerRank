@@ -2,7 +2,7 @@ package challenge;
 
 import java.util.Scanner;
 
-public class JavaLoops2 {
+public class JavaLoopsII {
 
     public static void main(String[] args) {
 
